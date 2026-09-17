@@ -1,0 +1,24 @@
+<svg width="148" height="25" viewBox="0 0 148 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hf" x1="2" y1="2" x2="23" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#0EA5A4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Habit Flow icon: flowing path + check -->
+  <rect x="1" y="1" width="23" height="23" rx="7" fill="url(#hf)"/>
+  <path d="M6.2 12.7L10.1 16.4L18.7 7.8"
+        stroke="white" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M6.3 18.9C9.2 20.1 13.4 20.1 17.1 18.2"
+        stroke="white" stroke-width="1.25" stroke-linecap="round" opacity=".55"/>
+
+  <!-- Wordmark -->
+  <text x="30" y="17.4"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-size="15"
+        font-weight="700"
+        letter-spacing="-0.35">
+    <tspan fill="#172033">Habit</tspan><tspan fill="#16A56B"> Flow</tspan>
+  </text>
+</svg>
